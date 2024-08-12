@@ -65,7 +65,7 @@ Contributions are welcome! Please feel free to use this repository.
 
 ## Project Screenshots
 
-![bhel 1](https://github.com/user-attachments/assets/e6b348a0-3e7b-4335-8969-9ad1b3eacb74)
+![bhel 1](https://github.com/user-attachments/assets/ed0463c4-f048-4f51-a070-8f43d7591ea4)
 
 ## License
 

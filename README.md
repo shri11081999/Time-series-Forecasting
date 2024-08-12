@@ -30,6 +30,7 @@ The project aims to predict future pricing trends based on historical data. It i
 ## Dataset Prepration
 
 * The dataset is proprietary and cannot be shared publicly due to industry confidentiality.
+
 ## Installation
 
 * Clone the repository:
@@ -60,7 +61,8 @@ These results demonstrate the effectiveness of time series forecasting in predic
 
 ## Contributing
 
-Contributions are welcome! Please feel free to fork this repository.
+Contributions are welcome! Please feel free to use this repository.
+
 ## Project Screenshots
 
 ![bhel 1](https://github.com/user-attachments/assets/e6b348a0-3e7b-4335-8969-9ad1b3eacb74)
@@ -70,8 +72,6 @@ Contributions are welcome! Please feel free to fork this repository.
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Acknowledgements
-
-We would like to express our gratitude to the participants of the PCEMS 2023 conference for their valuable feedback, and to the School of Agricultural Sciences for their assistance in providing the dataset used in this research.
 
 I sincerely thank Bharat Heavy Electricals Limited (BHEL) for the opportunity and guidance during this internship project. My gratitude also extends to my mentor Pradeep Singh Balowria for his continuous support and encouragement.
 

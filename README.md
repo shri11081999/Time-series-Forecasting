@@ -1,4 +1,3 @@
-
 # Forecasting Future Pricing Trends with Time Series Analysis: A BHEL Case Study
 
 ## Overview
@@ -38,9 +37,6 @@ The project aims to predict future pricing trends based on historical data. It i
 ```bash
 https://github.com/shri11081999/Time-series-Forecasting.git
 ```
-
-
-
 ## Usage
 
 1. Import the necessary libraries.
@@ -61,11 +57,7 @@ The ARIMA model was applied to predict the pricing indices for the years 2023 an
 * **Performance**: The model's performance was validated by comparing the predicted values with actual historical data, showing a close alignment.
 
 These results demonstrate the effectiveness of time series forecasting in predicting BHEL material code pricing trends and provide valuable insights for strategic planning.
-## Model Training
 
-* Trained models on both raw images and feature-extracted data.
-
-* Fine-tuned a ResNet-V2 model to achieve the highest classification accuracy.
 ## Contributing
 
 Contributions are welcome! Please feel free to fork this repository.
@@ -73,32 +65,6 @@ Contributions are welcome! Please feel free to fork this repository.
 
 ![bhel 1](https://github.com/user-attachments/assets/e6b348a0-3e7b-4335-8969-9ad1b3eacb74)
 
-
-
-## Evaluation
-
-* Compared the performance of models with and without data augmentation.
-
-* Evaluated models using standard classification metrics such as accuracy, precision, recall, and F1-score.
-## Conference Presentation
-
-**Conference** : 2nd International Conference on the Paradigm Shifts in Communication, Embedded Systems, Machine Learning, and Signal Processing (PCEMS 2023)
-
-**Paper ID** : 152
-
-**Date** : 2023
-
-**Location** : National Institute of Technology (VNIT), Nagpur
-
-**Link** : https://ieeexplore.ieee.org/document/10136030
-
-## Future-Work
-
-* **Expand Dataset** : Collect and label more data to improve model generalization.
-
-* **Cross-Crop Application** : Adapt the model to detect diseases in other crops such as rice and maize.
-
-* **Explainability**: Incorporate techniques to explain model predictions to increase trust in AI-driven diagnosis.
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
@@ -107,6 +73,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 We would like to express our gratitude to the participants of the PCEMS 2023 conference for their valuable feedback, and to the School of Agricultural Sciences for their assistance in providing the dataset used in this research.
 
+I sincerely thank Bharat Heavy Electricals Limited (BHEL) for the opportunity and guidance during this internship project. My gratitude also extends to my mentor Pradeep Singh Balowria for his continuous support and encouragement.
 
 ## Contact
 
